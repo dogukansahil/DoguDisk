@@ -1,5 +1,6 @@
 # DoguDisk
 ![Version](https://img.shields.io/badge/Version-1.1-brightgreen)
+![Platform](https://img.shields.io/badge/Platform-MacOs-blueviolet)
 
 DoguDisk is a macOS application that displays the free disk space on your system in the menu bar. It provides a convenient way to keep track of your disk usage without the need for opening Finder or accessing system information.
 
