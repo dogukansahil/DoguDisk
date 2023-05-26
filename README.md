@@ -9,6 +9,8 @@ DoguDisk is a macOS application that displays the free disk space on your system
 - Allows switching between GB and percentage display by clicking the menu bar item.
 - Runs in the background and does not appear in the Dock.
 
+![dogudisk](https://github.com/dogukansahil/DoguDisk/blob/main/dogudisk.gif)
+
 ## Getting Started
 
 To use DoguDisk on your macOS system, follow these steps:
