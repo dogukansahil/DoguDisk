@@ -33,4 +33,4 @@ Contributions to DoguDisk are welcome! If you find any issues or have suggestion
 
 ## Credits
 
-DoguDisk is developed by [DogukanSahil].
+DoguDisk is developed by Dogukan Sahil [dogukansahil.com.tr]
